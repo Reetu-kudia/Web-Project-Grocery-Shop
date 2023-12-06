@@ -1,0 +1,48 @@
+marquee{
+	background-color:red;
+	box-shadow: 10px 10px 5px ;
+}
+nav{font-size:20px;
+background-color:pink;
+box-shadow: 10px 10px 5px ;
+}
+
+
+img {
+    border-radius: 8px;
+}
+.home img{
+transition: 1s ease;
+border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 5px;
+  width: 30%;
+
+}
+
+.home img:hover{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+}
+
+
+.fruit img{
+transition: 1s ease;
+border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 5px;
+  width: 70%;
+
+}
+
+.fruit img:hover{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+}
+
+
+
